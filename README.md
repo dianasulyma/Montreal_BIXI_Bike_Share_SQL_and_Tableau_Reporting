@@ -84,9 +84,7 @@ themselves.
 
 The revenue model multiplies trip counts by single-trip fares. Real casual revenue
 includes day passes and multi-trip products, so a rider taking four trips is counted
-four times here but paid once. Treat these figures as an upper bound on casual revenue
-and a sound guide to *relative* demand across bands and hours — not booked revenue.
-Full assumptions in [`docs/methodology.md`](docs/methodology.md).
+four times here but paid once. 
 
 ## Data
 
