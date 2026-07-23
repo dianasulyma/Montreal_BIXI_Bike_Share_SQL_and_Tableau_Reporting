@@ -20,25 +20,25 @@ Analysis of ~8.6M bike-share trips from Bixi Montréal (2016–2017) examening r
 
 ## Ridership growth, 2016 → 2017
 
-![Monthly trips 2016 vs 2017](tableau/screenshots/01_monthly_trips_2016_2017.png)
+![Monthly trips 2016 vs 2017](<img src="tableau/screenshots/01_monthly_trips_2016_2017.png"width="70%">)
 
 ## Membership
 
-![Member share of trips, 2017](tableau/screenshots/03_member_share_2017.png)
+![Member share of trips, 2017](<img src="tableau/screenshots/03_member_share_2017.png"width="70%">)
 
-![Trip duration, member vs non-member](tableau/screenshots/05_trip_duration_member_vs_nonmember.png)
+![Trip duration, member vs non-member](<img src="tableau/screenshots/05_trip_duration_member_vs_nonmember.png"width="70%">)
 
 ## Station demand
 
-![Top 10 round-trip stations](tableau/screenshots/04_top10_round_trip_stations.png)
+![Top 10 round-trip stations](<img src="tableau/screenshots/04_top10_round_trip_stations.png"width="70%">)
 
-![Average trip duration by station](tableau/screenshots/06_map_all_stations_duration.png)
+![Average trip duration by station](<img src="tableau/screenshots/06_map_all_stations_duration.png"width="70%">)
 
-![Top 5 stations by duration](tableau/screenshots/07_map_top5_longest_duration.png)
+![Top 5 stations by duration](<img src="tableau/screenshots/07_map_top5_longest_duration.png"width="70%">)
 
 ## Casual-user revenue
 
-![Revenue by trip length](tableau/screenshots/08_revenue_by_trip_length.png)
+![Revenue by trip length](<img src="tableau/screenshots/08_revenue_by_trip_length.png"width="70%">)
 
 ---
 
